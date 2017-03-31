@@ -55,7 +55,6 @@ public class EndToEndTests {
         loginPage = new LoginPage(driver);
         loginPage.logInWithValidCredentials();
         homePage = new HomePage(driver);
-        System.out.println(driver.getTitle());
         if (homePage.getPriceInCart() != 0.0) {
             homePage.clearShoppingCart(driver);
         }

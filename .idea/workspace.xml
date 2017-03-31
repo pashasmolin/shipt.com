@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d0038c-7cad-4bad-8e9a-94d3fe351a8a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/browsers/chromedriver" afterPath="$PROJECT_DIR$/src/browsers/chromedriver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/Browsers.class" afterPath="$PROJECT_DIR$/target/classes/utils/Browsers.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/utils/Browsers.java" afterPath="$PROJECT_DIR$/src/main/utils/Browsers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" afterPath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" />
     </list>
     <ignored path="shipt.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EndToEndTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EndToEndTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-341">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="152">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Browsers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Browsers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+            <state relative-caret-position="408">
+              <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -703,16 +704,17 @@
       <option name="project" value="LOCAL" />
       <updated>1490928379246</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added chromedriver for Mac, deleted .exe extension for the driver so it can be run on mac">
+      <created>1490931551363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490931551363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 28m 15s.xml">
-      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 56m 40s.xml">
-      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 58m 20s.xml">
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
@@ -735,6 +737,12 @@
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
     <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 20h 34m 02s.xml">
+      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 22h 01m 39s.xml">
+      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 22h 02m 11s.xml">
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -782,7 +790,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added class and aftermethod for taking screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class and aftermethod for taking screenshots" />
+    <MESSAGE value="added chromedriver for Mac, deleted .exe extension for the driver so it can be run on mac" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chromedriver for Mac, deleted .exe extension for the driver so it can be run on mac" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -946,20 +955,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-341">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="408">
+          <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
+    <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        <state relative-caret-position="152">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

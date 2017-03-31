@@ -61,10 +61,7 @@ public class EndToEndTests {
         }
         homePage.searchMilk();
         homePage.selectHorizonOrganicMilk();
-        String itemName = homePage.getPopupItemName();
         Double itemPrice = homePage.getPopupItemPrice();
-        System.out.println(itemName);
-        System.out.println(itemPrice);
         homePage.clickAddToCart();
         homePage.clickXButton();
         homePage.clickCartButton();

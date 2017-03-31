@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/utils/Browsers.class" afterPath="$PROJECT_DIR$/target/classes/utils/Browsers.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" afterPath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" />
     </list>
     <ignored path="shipt.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -711,7 +710,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490931551363</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deleted sout">
+      <created>1490936589020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490936589020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -791,7 +797,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added class and aftermethod for taking screenshots" />
     <MESSAGE value="added chromedriver for Mac, deleted .exe extension for the driver so it can be run on mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="added chromedriver for Mac, deleted .exe extension for the driver so it can be run on mac" />
+    <MESSAGE value="deleted sout" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted sout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

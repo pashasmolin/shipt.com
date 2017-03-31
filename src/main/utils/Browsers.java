@@ -8,6 +8,7 @@ import java.util.Map;
 
 /**
  * Browser manager
+ * NOTE: if you want to run test on Windows please add .exe extension to src/Browsers/chromedriver path (code needs to be added to automatically check for OS)
  */
 
 public class Browsers {
@@ -21,7 +22,7 @@ public class Browsers {
             case "Chrome":
                 driver = drivers.get("Chrome");
                 if (driver == null) {
-                    System.setProperty("webdriver.chrome.driver", "src/Browsers/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "src/Browsers/chromedriver");
                     driver = new ChromeDriver();
                     drivers.put("Chrome", driver);
                 }

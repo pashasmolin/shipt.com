@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d0038c-7cad-4bad-8e9a-94d3fe351a8a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/utils/Screenshots.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/browsers/chromedriver" afterPath="$PROJECT_DIR$/src/browsers/chromedriver" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" afterPath="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/utils/Browsers.java" afterPath="$PROJECT_DIR$/src/main/utils/Browsers.java" />
     </list>
     <ignored path="shipt.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="EndToEndTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-718">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state relative-caret-position="-341">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Browsers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Browsers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="-69">
+              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="34" />
+            <state relative-caret-position="409">
+              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1743#1744#0" expanded="true" />
@@ -122,7 +121,7 @@
       <file leaf-file-name="IndexPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/pages/IndexPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="81">
               <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -170,13 +169,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/pages/CartPage.java" />
         <option value="$PROJECT_DIR$/src/main/pages/IndexPage.java" />
-        <option value="$PROJECT_DIR$/src/main/utils/Browsers.java" />
         <option value="$PROJECT_DIR$/src/main/utils/Resources.java" />
         <option value="$PROJECT_DIR$/src/main/pages/BasePage.java" />
         <option value="$PROJECT_DIR$/src/main/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/utils/Screenshots.java" />
-        <option value="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" />
         <option value="$PROJECT_DIR$/src/main/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/suits/EndToEndTests.java" />
+        <option value="$PROJECT_DIR$/src/main/utils/Browsers.java" />
       </list>
     </option>
   </component>
@@ -312,6 +311,28 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shipt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shipt.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -348,6 +369,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browsers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -357,7 +382,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="positive&#9;PSI&#9;JAVA://com.beust.jcommander.validators.PositiveInteger" />
@@ -671,15 +696,17 @@
       <option name="presentableId" value="Default" />
       <updated>1490759879660</updated>
     </task>
+    <task id="LOCAL-00001" summary="added class and aftermethod for taking screenshots">
+      <created>1490928379246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490928379246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 09m 07s.xml">
-      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 10m 37s.xml">
-      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 18h 28m 15s.xml">
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
@@ -702,6 +729,12 @@
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
     <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 19h 38m 49s.xml">
+      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 20h 33m 25s.xml">
+      <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EndToEndTests_test001_E2E_LogInSearchItemAddItemToCart - 2017.03.30 at 20h 34m 02s.xml">
       <configuration name="EndToEndTests.test001_E2E_LogInSearchItemAddItemToCart" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -746,6 +779,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added class and aftermethod for taking screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class and aftermethod for taking screenshots" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -827,11 +864,44 @@
         <state relative-caret-position="51">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#869#870#0" expanded="false" />
+            <element signature="e#930#931#0" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/utils/Screenshots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zcreenshots/test001_E2E_LogInSearchItemAddItemToCart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/pages/BasePage.java">
@@ -856,61 +926,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/pages/IndexPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="81">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/project.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/utils/Screenshots.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zcreenshots/test001_E2E_LogInSearchItemAddItemToCart.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -919,12 +936,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="34" />
+        <state relative-caret-position="409">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1743#1744#0" expanded="true" />
             <element signature="e#1789#1790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suits/EndToEndTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/utils/Browsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

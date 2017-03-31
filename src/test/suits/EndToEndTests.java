@@ -77,7 +77,7 @@ public class EndToEndTests {
 
     @AfterMethod
     public void takeScreenshotOnFailure(ITestResult testResult) throws IOException {
-        if (testResult.getStatus() == ITestResult.FAILURE){
+        if (testResult.getStatus() == ITestResult.FAILURE) {
             Screenshots.takeScreenshot(driver, testResult.getName());
         }
     }
